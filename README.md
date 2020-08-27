@@ -8,6 +8,10 @@ I have created this bot for fun feel free to contribute.
 - change tokens in index.js
 - npm start
 
+##### Tech Stack
+- Axios
+- Telegraf
+
 ##### SCREENSHOT 
 ![Imgur](https://i.imgur.com/K7cP34T.png)
 
